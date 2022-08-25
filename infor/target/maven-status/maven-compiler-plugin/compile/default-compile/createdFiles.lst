@@ -1,0 +1,14 @@
+mapper\usermapper.class
+servlet\addServlet.class
+service\adminiml.class
+servlet\quitServlet.class
+util\sqlsessionfactory.class
+pojo\people.class
+mapper\adminmapper.class
+servlet\loginServlet.class
+servlet\deleteServlet.class
+servlet\selectAllServlet.class
+pojo\admin.class
+servlet\demo.class
+service\useriml.class
+servlet\selectone.class

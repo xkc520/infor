@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    text-align: center;
+}
+body{background-image: url("../imags/鹦鹉.jpg")}
+
+.box{
+    width: 300px;
+    height: 300px;
+    margin: 50px auto;
+}
